@@ -1,0 +1,23 @@
+#cuerpo {
+   // border-style: solid;
+    //border-width: 1px;
+    //text-align: center;
+    margin-top: -20px;
+    //margin-bottom: 3px;
+    //margin-right: 3px;
+    background-color: #a5e1f0;
+    height:350px;
+        
+}
+
+nav.navbar {
+    color: blue
+    background-color: green;
+    border:none
+}
+
+
+#cabecera {
+  
+  // background-color: green; 
+}
